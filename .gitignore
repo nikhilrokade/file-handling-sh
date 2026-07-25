@@ -1,0 +1,6 @@
+# Exclude raw input files
+engLish.txt
+
+# Exclude generated pipeline outputs
+printPOS.txt
+onlyLines.txt
